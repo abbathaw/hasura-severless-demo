@@ -1,0 +1,14 @@
+{
+  "name": "hasura-cognito-user-sync",
+  "version": "1.0.0",
+  "description": "A lambda function to be used as post confirmation trigger to add user created in cognito to Hasura users table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

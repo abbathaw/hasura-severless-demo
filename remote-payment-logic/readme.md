@@ -1,0 +1,7 @@
+
+
+env variables
+
+STRIPE_SECRET
+HASURA_SECRET
+HASURA_URL
