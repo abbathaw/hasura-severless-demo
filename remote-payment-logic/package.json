@@ -9,7 +9,7 @@
   "author": "Abdullah Althawr",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-lambda": "^2.9.12",
+    "apollo-server-lambda": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
